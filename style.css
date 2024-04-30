@@ -30,6 +30,10 @@ body{
     height: 400px;
 
 }
+button{
+    background-color: blue;
+    color: white;
+}
 
 button{
     margin-top: 25px !important;
