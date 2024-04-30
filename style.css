@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-image: url("https://t3.ftcdn.net/jpg/05/59/27/48/240_F_559274893_O9iSRQwTKIkAooNTglilMgx2yMcXK9Or.jpg");
+
+}
+
+.displayimage{
+    border: 5px solid whitesmoke;
+    width: 500px;
+    height: 400px;
+    margin-top: 100px;
+    box-shadow: rgb(255 255 255 / 55%) 5px 15px 15px 5px;
+
+}
+
+.imgbox {
+    width: 600px;
+    height: 500px;
+
+}
+
+.imgbox img{
+    
+    object-fit:cover;
+    width: 500px;
+    height: 400px;
+
+}
+
+button{
+    margin-top: 25px !important;
+    
+}
